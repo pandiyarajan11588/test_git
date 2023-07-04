@@ -1,2 +1,6 @@
 test_git
+<<<<<<< HEAD
 rule1
+=======
+edit option
+>>>>>>> ee870be17a0b5299247f1bd463ec20c09fc15106
